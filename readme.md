@@ -3,6 +3,11 @@
 A Convolutional Neural Network Model to identify Covid, 
 using the Chest X-Ray.
 
+## Dataset
+
+Link to Dataset: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+ 
+
 ## Technologies used
 
 1. Python
